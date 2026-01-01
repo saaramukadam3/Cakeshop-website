@@ -9,3 +9,5 @@ The Cake Shop website offers various features such as:<br/>
   <li>Calculating the total price of the selected products.</li>
 </ul></br>
 
+<img width="603" height="422" alt="cakewebsiteimg" src="https://github.com/user-attachments/assets/a0fc0f3e-944c-4bcd-abba-73813a89031d" />
+<img width="1656" height="781" alt="Screenshot 2026-01-01 191642" src="https://github.com/user-attachments/assets/b9018824-c451-4e3b-a23f-d4455e29bb6c" />
