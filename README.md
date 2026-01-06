@@ -4,8 +4,9 @@ A modern and responsive Cake Shop Website built using React JS, designed to show
 
 ---
 
-##🔗 Live Project & Repository
-	•	🌐 Live Demo: https://smdesserthouse.netlify.app/
+##🔗 Live Project
+
+-🌐 Live Demo: https://smdesserthouse.netlify.app/
 
 ---
 
