@@ -11,8 +11,8 @@ A modern and responsive Cake Shop Website built using React JS, designed to show
 ---
 
 ##🛠️ Technologies Used
-	•	React JS
-	•	HTML5
+-React JS
+-HTML5
 	•	CSS3
 	•	JavaScript (ES6)
 	•	Netlify (Deployment)
